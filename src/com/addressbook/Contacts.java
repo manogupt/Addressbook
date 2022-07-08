@@ -2,7 +2,6 @@ package com.addressbook;
 
 
 public class Contacts {
-
 	private String firstName, lastName, city, state, email;
 	private long phoneNumber, zip;
 
